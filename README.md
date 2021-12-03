@@ -39,15 +39,59 @@ Execute the program
          </tr>
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
+             <td>-</td>
+             <td>-</td>
+             <td>19MA221/jaba jasphin</td>
+             <td>19MA221/jaba jasphin</td>
+             <td>19MA220/jaba jasphin</td>
+             <td>19MA220/jaba jasphin</td>
              <td align="center">-</td>
              <td align="center">EP</td>
          </tr>
-  
-         
+          <tr>
+             <td>tuesday</td>
+             <td>19AI402/karthi kovindharaju</td>
+             <td>19AI402/kathi kovindharaju</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI302/ram G.R</td>
+             <td>19AI302/ram G.R</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+         </tr>
+<tr>
+             <td>wednesday</td>
+             <td>19AI401/karthi kovindharaju</td>
+             <td>19AI401/kathi kovindharaju</td>
+             <td>19MA220/japa jasphin</td>
+             <td>19MA220/japa jasphin</td>
+             <td>-</td>
+             <td>-</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+         </tr>
+         <tr>
+             <td>thursday</td>
+             <td>19AI302/ram G.R</td>
+             <td>19AI302/ram G.R</td>
+             <td>19AI301/jaba jasphin/td>
+             <td>19AI301/jaba jasphin</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI303/ram G.R</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+         </tr>
+          <tr>
+             <td>friday</td>
+             <td>19AI401/karthi govindharaju</td>
+             <td>19MA401/karthi govindharaju</td>
+             <td>19MA301/jaba jasphin</td>
+             <td>19MA301/jaba jasphin</td>
+             <td>19EY701/subramanian</td>
+             <td>19EY701/subramanian</td>
+             <td align="center">-</td>
+             <td align="center">EP</td>
+         </tr>
       </table>
       
    </body>
@@ -55,4 +99,6 @@ Execute the program
 
 
 ~~~
-# OUPUT
+# OUPUT:
+![GitHub Logo](.//logo.png)
+![GitHub Logo](.//WTT.PNG)
